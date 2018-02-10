@@ -1,0 +1,58 @@
+body{
+	background: linear-gradient(to right, #00b36b , #00ff99);
+}
+
+#navbar {
+	
+	display: block;   
+	width: 100%
+	
+}
+
+img {
+
+	width: 15%;
+	display: block;   
+	margin:0 auto;
+   	border: 3% solid white;
+   	border-radius: 3%;
+	
+}
+
+h1{
+	color: white;
+	font-family: arial;
+	text-align: center;
+}
+
+p{
+	color: white;
+	font-family: arial;
+	text-align: center;
+	font-weight: bold;
+}
+
+a{
+	color: white;
+	display: block;
+	font-family: arial;
+	text-decoration: none;
+	font-weight: bold;
+	text-align: center;
+	
+}
+
+a:hover{
+	color: red;
+}
+
+#youtube{
+	display: block;
+	width: 20%;
+	margin: 0 auto;
+}
+
+
+#about{
+	margin-top: 5%;
+}
