@@ -3,34 +3,51 @@ body{
 }
 
 #navbar {
-	
-	display: block;   
+	height: 6em;
 	width: 100%
-	
+	display: block;   
+	margin-top: 0%;
 }
 
-img {
-
+#profile {
 	width: 15%;
 	display: block;   
 	margin:0 auto;
-   	border: 3% solid white;
    	border-radius: 3%;
 	
 }
 
-h1{
-	color: white;
-	font-family: arial;
-	text-align: center;
+.top{
+	display: inline-block;
+	float: left;
+	margin-left: 2%;
+	font-family: Impact;
+	color: black;
+
 }
 
-p{
+#logo {
+	height: 4em;
+	display: inline-block;
+	float: left;
+	
+}
+
+
+
+.fact{
 	color: white;
 	font-family: arial;
 	text-align: center;
 	font-weight: bold;
 }
+
+.menu{
+	color: black;
+	font-family: arial;
+	font-weight: bold;
+}
+
 
 a{
 	color: white;
