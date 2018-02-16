@@ -17,6 +17,13 @@ body{
 	
 }
 
+#fullResume{
+	width: 33%;
+	display: block;   
+	margin:0 auto;
+   	border-radius: 3%;
+}
+
 .top{
 	display: inline-block;
 	float: left;
@@ -26,11 +33,13 @@ body{
 }
 
 #logo:hover{
-	
+	filter: drop-shadow(10px 10px 10px #404040);
+	drop-shadow(10px 10px 10px #404040);
 }
 
 .top:hover{
-	
+	filter: drop-shadow(10px 10px 10px #404040);
+	drop-shadow(10px 10px 10px #404040);
 }
 
 #logo {
