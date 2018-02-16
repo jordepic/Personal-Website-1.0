@@ -23,43 +23,45 @@ body{
 	margin-left: 2%;
 	font-family: Impact;
 	color: black;
+}
 
+#logo:hover{
+	
+}
+
+.top:hover{
+	
 }
 
 #logo {
 	height: 4em;
 	display: inline-block;
 	float: left;
-	
 }
 
-
+#resume{
+	margin-top: .8em;
+}
 
 .fact{
 	color: white;
-	font-family: arial;
+	font-family: sans-serif;
 	text-align: center;
 	font-weight: bold;
 }
 
-.menu{
-	color: black;
-	font-family: arial;
-	font-weight: bold;
-}
 
-
-a{
+.bullet{
 	color: white;
 	display: block;
-	font-family: arial;
+	font-family: sans-serif;
 	text-decoration: none;
 	font-weight: bold;
 	text-align: center;
 	
 }
 
-a:hover{
+.bullet:hover{
 	color: black;
 }
 
